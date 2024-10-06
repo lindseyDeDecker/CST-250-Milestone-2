@@ -1,0 +1,36 @@
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.exe
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.runtimeconfig.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.csproj.AssemblyReference.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\Mineswee.DCB44225.Up2Date
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\refint\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.genruntimeconfig.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperConsole\obj\Debug\net8.0\ref\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.exe
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.runtimeconfig.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperConsole.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\bin\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.csproj.AssemblyReference.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\Mineswee.DCB44225.Up2Date
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\refint\MinesweeperConsole.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\MinesweeperConsole.genruntimeconfig.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperConsole\obj\Debug\net8.0\ref\MinesweeperConsole.dll

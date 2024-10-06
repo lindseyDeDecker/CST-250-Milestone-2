@@ -1,0 +1,22 @@
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\refint\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\MinesweeperClasses\obj\Debug\net8.0\ref\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.deps.json
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\bin\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.AssemblyInfoInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.AssemblyInfo.cs
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.csproj.CoreCompileInputs.cache
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\refint\MinesweeperClasses.dll
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\MinesweeperClasses.pdb
+C:\Users\kydec\Desktop\Lindsey School\CST - 250\Week 1\Milestone 1\MinesweeperClasses\obj\Debug\net8.0\ref\MinesweeperClasses.dll
